@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "devDependencies": {
+    "benchmark": "^2.1.4",
+    "bruteforce": "latest",
+    "bruteforcejs": "latest",
+    "node-bruteforce": "latest",
+    "bruteforcer": "latest",
+    "brutee": "latest",
+    "bruter": "latest"
+  }
+}
