@@ -1,6 +1,6 @@
 {
   "name": "fbrute",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "cotenochek",
   "license": "MIT",
   "description": "Fast generator of character combinations for a given alphabet and length",
@@ -10,6 +10,7 @@
     "url": "https://github.com/StormExecute/fbrute.git"
   },
   "main": "src/index.js",
+  "types": "index.d.ts",
   "scripts": {
     "test": "node tests/index.js",
     "benchmark": "cd ./benchmark && npm i && node --expose-gc ./"
@@ -18,7 +19,7 @@
     "node": ">=7.6.0"
   },
   "keywords": [
-	"fbrute",
+    "fbrute",
     "brute",
     "force",
     "bruteforce",
